@@ -30,8 +30,7 @@ It helps visualize patterns, trends, and risk factors across different demograph
 ![Dashboard Preview](dashboard.png)
 
 ## 🎬 Demo
-<video src="dashboard_demo.mp4" controls="controls" style="max-width: 100%;">
-</video>
+https://github.com/user-attachments/assets/bb4c6a47-795f-4f57-a63d-eea8d3913bb4
 
 ## 🚀 Highlights
 - Developed an interactive and insightful dashboard
