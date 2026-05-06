@@ -24,7 +24,7 @@ It helps visualize patterns, trends, and risk factors across different demograph
 - condition.csv – Health condition data
 - Organs.csv – Organ-related reference data
 - dashboard.png – Dashboard screenshot
-- demos/dashboard-demo.gif – Demo file
+- demos/dashboard_demo.mp4 – Demo file
 
 ## 📸 Dashboard Preview
 ![Dashboard Preview](dashboard.png)
