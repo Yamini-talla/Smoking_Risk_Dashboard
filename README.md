@@ -30,7 +30,7 @@ It helps visualize patterns, trends, and risk factors across different demograph
 ![Dashboard Preview](dashboard.png)
 
 ## 🎬 Demo
-![Demo](dashboard_demo.mp4)
+![Demo](https://github.com/Yamini-talla/Smoking_Risk_Dashboard/blob/main/dashboard_demo.mp4)
 
 ## 🚀 Highlights
 - Developed an interactive and insightful dashboard
